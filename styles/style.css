@@ -1,0 +1,22 @@
+header{text-align: center;}
+
+p{font-size: 19px;}
+li{font-size: 19px;}
+ol{font-size: 19px;}
+.center{
+	text-align: left;
+    width: 770px;
+    margin: auto;
+    }
+.header{
+	font-size: 24px;
+	text-align: center;
+    width: 770px;
+    margin: auto;
+    }
+
+.right{
+	text-align: right;
+    width: 810px;
+    margin: auto;
+    }
